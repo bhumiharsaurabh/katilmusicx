@@ -16,3 +16,8 @@ SESSION_NAME = getenv("SESSION_NAME", "BQCdZUPVqWdHudEeVSwMaYj2FoNB7x5LMGmFBTSe6
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ !").split())
 PMPERMIT = getenv("PMPERMIT", "ENABLE")
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5220532510").split()))
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
+UPSTREAM_REPO = getenv(
+    "UPSTREAM_REPO",
+    "https://github.com/bhumiharsaurabh/katilmusicx",
+)
