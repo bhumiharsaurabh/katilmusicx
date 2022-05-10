@@ -21,3 +21,8 @@ UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/bhumiharsaurabh/katilmusicx",
 )
+# Get it from http://dashboard.heroku.com/account
+HEROKU_API_KEY = getenv("HEROKU_API_KEY")
+
+# You have to Enter the app name which you gave to identify your  Music Bot in Heroku.
+HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
