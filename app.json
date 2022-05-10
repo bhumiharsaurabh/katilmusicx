@@ -34,6 +34,21 @@
       "description": "List of user IDs counted as admin everywhere (separated by space).",
       "required": true
     },
+    "HEROKU_API_KEY": {
+        "description": "Your Heroku account's API key",
+        "value": "",
+        "required": true
+    },
+    "UPSTREAM_REPO": {
+        "description": "If you dont know this, Leave as it is",
+        "value": "https://github.com/bhumiharsaurabh/katilmusicx",
+        "required": true
+    },
+    "UPSTREAM_BRANCH": {
+        "description": "Upstream Repo's Branch Name",
+        "value": "main",
+        "required": true
+    },
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
       "required": true,
