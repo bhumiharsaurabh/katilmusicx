@@ -26,7 +26,7 @@
   
 ### Heroku Deployment
   
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bhumiharsaurabh/katilmusicx)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KUNAL12459/katilmusicx)
 
  
 
