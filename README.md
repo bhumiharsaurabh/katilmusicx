@@ -1,16 +1,16 @@
-# katilmusicx
+# musicsky
 𝕞𝕦𝕤𝕚𝕔 𝕡𝕝𝕒𝕪 𝕗𝕠𝕣 𝕥𝕖𝕝𝕖𝕘𝕣𝕒𝕞 𝕘𝕣𝕠𝕦𝕡 𝕒𝕟𝕕 𝕔𝕙𝕒𝕟𝕟𝕖𝕝 𝕝𝕒𝕘 𝕗𝕣𝕖𝕖 𝕞𝕦𝕤𝕚𝕔 𝕡𝕝𝕒𝕪
 
-#  𝐓𝐌𝐂 𝐌𝐔𝐒𝐈𝐂'𝐗
+#  Sky Music
 
 ### Best Smart Voice Chat Music Robot For Telegram Groups ....
 
 # <p align="center"><a href="https://github.com/bhumiharsaurabh/katilmusicx"><img src="https://github-readme-stats.vercel.app/api/pin?username=bhumiharsaurabh&show_icons=true&theme=dracula&hide_border=true&repo=katilmusicx"></a></p>
 <p align="center">
 
-  <details>
-<summary><b>🔗 Session String</b></summary>
-<br>
+
+
+
 
 > You'll need a [API_ID](https://my.telegram.org/auth) & [API_HASH](https://my.telegram.org/auth) in order to generate pyrogram session string. 
 > Always remember to use good API combo else your account could be deleted.
@@ -26,7 +26,7 @@
   
 ### Heroku Deployment
   
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bhumiharsaurabh/katilmusicx)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Skyy113/musicsky)
 
  
 
@@ -42,7 +42,7 @@
   
 
   
-# katilmusicx
+# Sky Music
 Give us a star and fork our repo
   
   
@@ -53,13 +53,10 @@ Give us a star and fork our repo
   
   
 
-## 🚀 Okteto Deployment
 
-<h4>Click the button below to deploy on Okteto!</h4>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/bhumiharsaurabh/katilmusicx"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
-## Support & Updates 
-<a href="https://t.me/FULL_MASTI_CLUBS"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/HEARTBROKENPERSON1"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+
   
 # Support Us
   
