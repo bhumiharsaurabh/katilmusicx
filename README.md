@@ -23,5 +23,5 @@
 
   
 # Sky Music
-Give us a star and fork our repo
+```JANGAN LUPA KASIH BINTANG```
 
