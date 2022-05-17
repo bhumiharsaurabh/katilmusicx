@@ -5,11 +5,6 @@
 
 ### Best Smart Voice Chat Music Robot For Telegram Groups ....
 
-# <p align="center"><a href="https://github.com/bhumiharsaurabh/katilmusicx"><img src="https://github-readme-stats.vercel.app/api/pin?username=bhumiharsaurabh&show_icons=true&theme=dracula&hide_border=true&repo=katilmusicx"></a></p>
-<p align="center">
-
-
-
 
 
 > You'll need a [API_ID](https://my.telegram.org/auth) & [API_HASH](https://my.telegram.org/auth) in order to generate pyrogram session string. 
@@ -51,14 +46,3 @@ Give us a star and fork our repo
   
   
 
-
-
-
-
-  
-# Support Us
-  
-  
-- Click Here 👇🏻 and Join Please
-  
-  [![TMC EMPIRES](https://telegra.ph/file/13fba0e9d76c406ae9ce2.jpg)](https://t.me/TMC_EMPIRES)
