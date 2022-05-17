@@ -13,7 +13,7 @@ async def start_op(_, query: CallbackQuery):
               f"""**Hello, Welcome {message.from_user.mention()}\n
 I am powerful easy to use TeleGram Super Bot. I can play high quality and unbreakable music in your group voice chat. Just add me and promote with needed powers.\n
 Use Inline buttons for more !!
-For Help : @HEARTBROKENPERSON1**""",
+For Help : @yaudahhlahhhh**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
