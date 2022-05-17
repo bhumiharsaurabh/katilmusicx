@@ -288,11 +288,11 @@ async def play(_, message: Message):
                [
                     InlineKeyboardButton(
                             text="📨 𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/HEARTBROKENPERSON1"),
+                            url=f"https://t.me/sohbetf"),
                             
                     InlineKeyboardButton(
                             text="📨 𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/FULL_MASTI_CLUBS")
+                            url=f"https://t.me/sohbetf")
                ],
                
             ]
