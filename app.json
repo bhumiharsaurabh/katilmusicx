@@ -1,9 +1,9 @@
 {
-  "name": "KatilMusicX",
+  "name": "SkyMusic",
   "logo": "https://telegra.ph/file/13fba0e9d76c406ae9ce2.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/bhumiharsaurabh/katilmusicx",
+  "repository": "https://github.com/Skyy112/musicsky",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
