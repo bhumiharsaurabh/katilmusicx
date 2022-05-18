@@ -207,11 +207,11 @@ async def play(_, message: Message):
                 
                [
                     InlineKeyboardButton(
-                            text="📨 𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
+                            text="📨 𝐂𝐡𝐚𝐧𝐧𝐞𝐥",
                             url=f"https://t.me/yaudahhlahhhh"),
                             
                     InlineKeyboardButton(
-                            text="📨 𝐆𝐫𝐨𝐮𝐩⭐",
+                            text="📨 𝐆𝐫𝐨𝐮𝐩",
                             url=f"https://t.me/yaudahhlahhhh")
                ],
                
@@ -228,11 +228,11 @@ async def play(_, message: Message):
                 
                [
                     InlineKeyboardButton(
-                            text="📨 𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
+                            text="📨 𝐂𝐡𝐚𝐧𝐧𝐞𝐥",
                             url=f"https://t.me/yaudahhlahhhh"),
                             
                     InlineKeyboardButton(
-                            text="📨 𝐆𝐫𝐨𝐮𝐩⭐",
+                            text="📨 𝐆𝐫𝐨𝐮𝐩",
                             url=f"https://t.me/yaudahhlahhhh")
                ],
                
@@ -287,11 +287,11 @@ async def play(_, message: Message):
                 
                [
                     InlineKeyboardButton(
-                            text="📨 𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
+                            text="📨 𝐂𝐡𝐚𝐧𝐧𝐞𝐥",
                             url=f"https://t.me/yaudahhlahhhh"),
                             
                     InlineKeyboardButton(
-                            text="📨 𝐆𝐫𝐨𝐮𝐩⭐",
+                            text="📨 𝐆𝐫𝐨𝐮𝐩",
                             url=f"https://t.me/yaudahhlahhhh")
                ],
                
