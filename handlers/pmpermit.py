@@ -18,19 +18,19 @@ async def pmPermit(client: USER, message: Message):
                 return
             await USER.send_message(
                 message.chat.id,
-                f"ʜᴇʏ {message.from_user.mention()},\nᴛʜɪs ɪs [{sau}](t.me/{kunj}) ʙᴏᴛ ᴀssɪsᴛᴀɴᴛ ᴀᴄᴄᴏᴜɴᴛ.\n\nᴅᴏɴ'ᴛ ᴛʀʏ ᴛᴏ sᴘᴀᴍ ʜᴇʀᴇ ᴇʟsᴇ ʏᴏᴜ ᴡɪʟʟ ɢᴇᴛ ꜰᴜ*ᴋᴇᴅ ʙʏ [★•亗『𝐊𝐀𝐓𝐈𝐋』亗•★ ](t.me/{OWNER_USERNAME}).\n",
+                f"ʜᴇʏ {message.from_user.mention()},\nᴛʜɪs ɪs [{sau}](t.me/{kunj}) ʙᴏᴛ ᴀssɪsᴛᴀɴᴛ ᴀᴄᴄᴏᴜɴᴛ.\n\nᴅᴏɴ'ᴛ ᴛʀʏ ᴛᴏ sᴘᴀᴍ ʜᴇʀᴇ ᴇʟsᴇ ʏᴏᴜ ᴡɪʟʟ ɢᴇᴛ ꜰᴜ*ᴋᴇᴅ ʙʏ [sky](t.me/{OWNER_USERNAME}).\n",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🥱 ʙᴏᴛ 🥱", url=f"https://t.me/{kunj}"
+                        " ʙᴏᴛ ", url=f"https://t.me/{kunj}"
                     ),
                     InlineKeyboardButton(
-                        "💖 sᴜᴩᴩᴏʀᴛ 💖", url="https://github.com/bhumiharsaurabh/katilmusicx"
+                        " sᴜᴩᴩᴏʀᴛ ", url="https://github.com/Skyy112/musicsky"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "💞 ᴏᴡɴᴇʀ​​ 💞", url=f"https://t.me/{OWNER_USERNAME}"
+                        " ᴏᴡɴᴇʀ ", url=f"https://t.me/{OWNER_USERNAME}"
                     )]
             ]
         ),
@@ -47,11 +47,11 @@ async def bye(client: Client, message: Message):
         queryy = text[1]
         if queryy == "on":
             PMSET = True
-            await message.reply_text("PM Permit Enabled ✅")
+            await message.reply_text("PM Permit Enabled")
             return
         if queryy == "off":
             PMSET = None
-            await message.reply_text("PM Permit Disabled ❌")
+            await message.reply_text("PM Permit Disabled")
             return
 
 @USER.on_message(filters.text & filters.private & filters.me)        
@@ -59,7 +59,7 @@ async def autopmPermiat(client: USER, message: Message):
     chat_id = message.chat.id
     if not chat_id in pchats:
         pchats.append(chat_id)
-        await message.reply_text("Auto Approved ❗...")
+        await message.reply_text("Auto Approved...")
         return
     message.continue_propagation()    
     
@@ -68,7 +68,7 @@ async def pmPermiat(client: USER, message: Message):
     chat_id = message.chat.id
     if not chat_id in pchats:
         pchats.append(chat_id)
-        await message.reply_text("Approoved to PM ✅")
+        await message.reply_text("Approoved to PM")
         return
     message.continue_propagation()    
     
@@ -78,6 +78,6 @@ async def rmpmPermiat(client: USER, message: Message):
     chat_id = message.chat.id
     if chat_id in pchats:
         pchats.remove(chat_id)
-        await message.reply_text("Dispprooved to PM ❌")
+        await message.reply_text("Dispprooved to PM")
         return
     message.continue_propagation()
