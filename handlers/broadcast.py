@@ -24,9 +24,9 @@ async def broadcast(_, message: Message):
             await wtf.edit("**__Ƥɭɘɑsɘ Ʀɘƥɭy Ƭø ɑ Mɘssɑʛɘ Ƭø Stɑɤt Ɓɤøɑɗƈɑst ...__**")
             return
         lmao = message.reply_to_message.text
-        async for dialog in aditya.iter_dialogs():
+        async for dialog in katil.iter_dialogs():
             try:
-                await aditya.send_message(dialog.chat.id, lmao)
+                await katil.send_message(dialog.chat.id, lmao)
                 sent = sent+1
                 await wtf.edit(f"`Ɓɤøɑɗƈɑstɩŋʛ` \n\n**Sɘŋt Ƭø:** `{sent}` Ƈɦɑts \n**Fɑɩɭɘɗ Iŋ:** {failed} chats")
                 await asyncio.sleep(3)
