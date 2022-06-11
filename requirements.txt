@@ -21,5 +21,5 @@ tgcrypto
 wget
 youtube-search
 youtube-search-python
-git+https://github.com/adityacheats/downloader@master
+yt-dlp
 search_engine_parser
