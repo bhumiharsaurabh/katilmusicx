@@ -40,6 +40,7 @@ async def stop(_, message: Message):
     except QueueEmpty:
         pass
 
+    await message.delete()
     await callsmusic.pytgcalls.leave_group_call(message.chat.id)
     await message.reply_text("❌ 𝐒𝐭𝐨𝐩 🛑 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 BY {} 🥺".format(
       message.from_user.mention ), )
