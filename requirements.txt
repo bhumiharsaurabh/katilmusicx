@@ -21,5 +21,5 @@ tgcrypto
 wget
 youtube-search
 youtube-search-python
-yt-dlp
+git+https://github.com/AnonymousR1025/yt-dl@master
 search_engine_parser
